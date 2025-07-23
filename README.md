@@ -70,7 +70,8 @@ Este projeto utiliza **Apache Spark** para construir modelos de regressão com o
 ## 👨‍💻 Autor
 
 **Seu Nome Aqui**  
-[LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-20083b1a2/) • [GitHub]()
+[LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-20083b1a2/) 
+[GitHub](https://github.com/Leoosantoszl/Previsao_Precos_Imoveis_com_PySpark)
 
 ---
 
